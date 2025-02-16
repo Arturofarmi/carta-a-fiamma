@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+}
+
+.league-script-regular {
+    font-family: "League Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
